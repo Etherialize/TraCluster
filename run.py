@@ -21,7 +21,7 @@ data, test_data = train_test_split(data, test_size=0.03, random_state=42)
 test_data.to_csv('data\\bj_test_demo.csv', index=False, sep=';')
 
 # run cluster
-# similarity.runSim()
+similarity.runSim()
 # n2cluster.run_cluster()
 test.run_cluster()
 
