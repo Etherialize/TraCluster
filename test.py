@@ -36,4 +36,4 @@ def run_cluster():
     print(f"Calinski-Harabasz Index: {calinski_harabasz_index:.3f}")
     print(f"Davies-Bouldin Index: {davies_bouldin_index:.3f}")
 
-
+# test commit
