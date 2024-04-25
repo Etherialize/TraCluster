@@ -24,4 +24,5 @@ test_data.to_csv('data\\bj_test_demo.csv', index=False, sep=';')
 similarity.runSim()
 # n2cluster.run_cluster()
 test.run_cluster()
+# test
 

@@ -56,7 +56,7 @@ def z_score(array):
     return divided_array
 
 import time
-
+# test
 def runSim():
     # 记录开始时间
     start_time = time.time()
