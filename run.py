@@ -5,7 +5,7 @@ import n2cluster
 import test
 
 
-# 加载原始数据
+# 加载原始数据   test
 data = pd.read_csv('data\\bj_test.csv', sep=';')
 
 # 划分数据集
